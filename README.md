@@ -1,4 +1,4 @@
-git clone :https://github.com/Rohith-chintham/react-calculator.git
+git clone https://github.com/Rohith-chintham/react-calculator.git
 
 cd react-calculator
 
